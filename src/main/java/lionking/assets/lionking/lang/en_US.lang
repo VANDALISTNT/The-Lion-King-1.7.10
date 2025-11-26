@@ -1,0 +1,1135 @@
+  Creative Tabs
+itemGroup.Lion King Blocks=Lion King Blocks
+itemGroup.Lion King Decorations=Lion King Decorations
+itemGroup.Lion King Foodstuffs=Lion King Foodstuffs
+itemGroup.Lion King Materials=Lion King Materials
+itemGroup.Lion King Miscellaneous=Lion King Miscellaneous
+itemGroup.Lion King Tools=Lion King Tools
+itemGroup.Lion King Combat=Lion King Combat
+itemGroup.Lion King Quest Items=Lion King Quest Items
+
+  Items - Materials
+item.prideWood.name=Pride Wood
+item.leaves.name=Leaves
+item.cornStalk.name=Corn Stalk
+item.hyenaBone.name=Hyena Bone 
+item.hyenaBoneShard.name=Hyena Bone Shard
+item.gemsbokHide.name=Gemsbok Hide
+item.gemsbokHorn.name=Gemsbok Horn
+item.horn.name=Rhino Horn
+item.zebraHide.name=Zebra Hide
+item.elephantHide.name=Elephant Hide
+item.featherBlack.name=Black Feather
+item.featherBlue.name=Blue Feather
+item.featherYellow.name=Yellow Feather
+item.featherRed.name=Red Feather
+item.featherPink.name=Pink Feather
+item.outlandsFeather.name=Outlands Feather
+item.crystal.name=Hakuna Matata Crystal
+item.termite.name=Termite
+item.thrownTermite.name=Thrown Termite
+item.lionking.termiteQueen.name=Termite Queen
+item.bug.name=Bug
+
+  Items - Food
+item.lionRaw.name=Raw Lion Meat
+item.lionCooked.name=Cooked Lion Meat
+item.zebraRaw.name=Raw Zebra Meat
+item.zebraCooked.name=Cooked Zebra Meat
+item.rhinoRaw.name=Raw Rhino Meat
+item.rhinoCooked.name=Cooked Rhino Meat
+item.crocodileMeat.name=Crocodile Meat
+item.fishRaw.name=Raw Fish
+item.rottenFlesh.name=Rotten Flesh
+item.corn.name=Corn
+item.cornKernels.name=Corn Kernels
+item.mango.name=Mango
+item.kiwano.name=Kiwano
+item.passionFruit.name=Passion Fruit
+item.mangoJuice.name=Mango Juice
+item.jar.name=Empty Jar
+item.jarMilk.name=Jar of Milk
+item.chocolateMufasa.name=Chocolate Mufasa
+item.xpGrub.name=XP Grub
+item.bugStew.name=Bug Stew
+
+  Items - Tools
+item.pickaxe.name=Lion King Pickaxe
+item.pickaxeCorrupt.name=Corrupt Pickaxe
+item.pickaxeFire.name=Fire Pickaxe
+item.shovel.name=Lion King Shovel
+item.shovelCorrupt.name=Corrupt Shovel
+item.shovelFire.name=Fire Shovel
+item.tunnahDiggah.name=Tunnah Diggah
+item.rafikiStick.name=Rafiki's Stick
+item.staff.name=Staff
+
+  Items - Weapons
+item.sword.name=Lion King Sword
+item.swordCorrupt.name=Corrupt Sword
+item.spear.normal.name=Gemsbok Spear
+item.spear.poisoned.name=Poisoned Spear
+item.dart.name=Dart
+item.dartBlack.name=Black Dart
+item.dartRed.name=Red Dart
+item.dartYellow.name=Yellow Dart
+item.dartBlue.name=Blue Dart
+item.dartPink.name=Pink Dart
+item.pumbaaBomb.name=Pumbaa's Bomb
+
+  Items - Armor and Accessories
+item.ticketLionSuit.helmet.name=Lion Suit Helmet
+item.ticketLionSuit.chestplate.name=Lion Suit Chestplate
+item.ticketLionSuit.leggings.name=Lion Suit Leggings
+item.ticketLionSuit.boots.name=Lion Suit Boots
+item.specialArmor.helmet.name=Special Helmet
+item.specialArmor.chestplate.name=Special Chestplate
+item.specialArmor.leggings.name=Special Leggings
+item.specialArmor.boots.name=Special Boots
+item.outlandsHelm.name=Outlands Helmet
+item.giraffeSaddle.name=Giraffe Saddle
+item.wings.name=Wings
+item.tie.name=Tie
+item.charm.name=Charm
+item.simbaCharm.active.name=Active Simba Charm
+item.simbaCharm.inactive.name=Inactive Simba Charm
+item.amulet.name=Amulet
+
+  Items - Decorative
+item.pridePillar.name=Pride Pillar
+item.prideBrick.name=Pride Brick
+item.rug.name=Fur Rug
+item.scarRug.name=Scar Rug
+item.ziraRug.name=Zira Rug
+item.hyenaHeadItem.name=Hyena Head
+
+  Items - Miscellaneous
+item.coin.name=Coin
+item.ticket.name=Lion King Ticket
+item.ticket.0.name=Ticket
+item.ticket.1.name=Cracker
+item.questBook.name=Quest Book
+item.lionPortal.name=Lion Portal
+item.outlandsPortal.name=Outlands Portal
+item.seeds.name=Lion King Seeds
+item.zazuEgg.name=Zazu Egg
+
+  Items - Mounted Shooters
+item.mountedShooter.0.name=Wooden Mounted Shooter
+item.mountedShooter.1.name=Silver Mounted Shooter
+
+  Items - Notes
+item.note.0.name=Note C
+item.note.1.name=Note D
+item.note.2.name=Note E
+item.note.3.name=Note F
+item.note.4.name=Note G
+item.note.5.name=Note A
+item.note.6.name=Note B
+
+  Items - Vases
+item.vase.flowerWhite.name=White Flower Vase
+item.vase.flowerBlue.name=Blue Flower Vase
+item.vase.flowerPurple.name=Purple Flower Vase
+item.vase.flowerRed.name=Red Flower Vase
+item.vase.acacia.name=Acacia Vase
+item.vase.rainforest.name=Rainforest Vase
+item.vase.mango.name=Mango Vase
+item.vase.outshroom.name=Outshroom Vase
+item.vase.outshroomGlowing.name=Glowing Outshroom Vase
+item.vase.passion.name=Passion Vase
+item.vase.banana.name=Banana Vase
+
+  Items - Rug Dyes
+item.rugDye.white.name=White Rug Dye
+item.rugDye.blue.name=Blue Rug Dye
+item.rugDye.yellow.name=Yellow Rug Dye
+item.rugDye.red.name=Red Rug Dye
+item.rugDye.purple.name=Purple Rug Dye
+item.rugDye.lightBlue.name=Light Blue Rug Dye
+item.rugDye.green.name=Green Rug Dye
+item.rugDye.black.name=Black Rug Dye
+item.rugDye.violet.name=Violet Rug Dye
+item.rugDye.pink.name=Pink Rug Dye
+item.rugDye.lightGreen.name=Light Green Rug Dye
+
+  Items - Lilies
+item.lily.0.name=White Lily
+item.lily.1.name=Purple Lily
+
+  Blocks
+block.lionPortal.name=Lion Portal
+block.outlandsPortal.name=Outlands Portal
+block.pridePillar.name=Pride Pillar
+block.prideBrick.name=Pride Brick
+block.rug.name=Rug
+
+  Entities
+entity.coin.name=Coin
+entity.dart.name=Dart
+entity.dartRed.name=Red Dart
+entity.dartBlack.name=Black Dart
+entity.dartBlue.name=Blue Dart
+entity.lionking.yellowDart.name=Yellow Dart
+entity.dikdik.name=Dik-dik
+entity.flamingo.name=Flamingo
+entity.gemsbok.name=Gemsbok
+entity.gemsbok_calf.name=Gemsbok Calf
+entity.giraffe.name=Giraffe
+entity.hyena.name=Hyena
+entity.lion.name=Lion
+entity.lioness.name=Lioness
+entity.lion_cub.name=Lion Cub
+entity.lioness_cub.name=Lioness Cub
+entity.lionking.rafiki.name=Rafiki
+entity.lionking.timon.name=Timon
+entity.lionking.pumbaa.name=Pumbaa
+entity.lionking.zira.name=Zira
+entity.lionking.zazu.name=Zazu
+entity.lionking.zazuEgg.name=Zazu Egg
+entity.lionking.zebra.name=Zebra
+entity.lionking.elephant.name=Elephant
+entity.lionking.vulture.name=Vulture
+entity.lionking.ticketLion.name=Ticket Lion
+entity.lionking.termiteQueen.name=Termite Queen
+entity.lionking.thrownTermite.name=Thrown Termite
+entity.lionking.termite.name=Termite
+entity.lionking.skeletalHyena.name=Skeletal Hyena
+entity.lionking.skeletalHyenaHead.name=Skeletal Hyena Head
+entity.simba.name=Simba
+entity.lionking.scar.name=Scar
+entity.lionking.scarRug.name=Scar Rug
+entity.lionking.rhino.name=Rhino
+entity.lionking.spear.name=Spear
+entity.crocodile.name=Crocodile
+entity.bug.name=Bug
+
+    GUI
+gui.lionking.book.title=The Pride Lands Book of Quests
+gui.lionking.book.portal=Portal location: 
+gui.lionking.book.lost1=If you lose this book, bring an ordinary book and some
+gui.lionking.book.lost2=lion fur to Rafiki to receive another one.
+gui.lionking.quest.complete=Quest complete!
+gui.lionking.quest.objective=Current objective:
+gui.lionking.quest.requirements=Requirements:
+gui.lionking.quest.not_started=You are not able to start this quest yet.
+gui.lionking.quest.done= - Done
+gui.lionking.craft.title=Crafting
+
+  Tile Entities and Descriptions
+tile.questBlock.name=Quest Block
+tile.metaBlock.0.name=Meta Block Type 1
+tile.metaBlock.1.name=Meta Block Type 2
+tile.leaves.0.name=Oak Leaves
+tile.leaves.1.name=Acacia Leaves
+
+tile.lionPortalFrame.info=The indestructible frame of a%sPride Lands Portal.%sFound in Lion King Ticket Booths%sand can be activated with a%sLion King Ticket.
+tile.lionPortal.info=A block which transports the%splayer between the Pride Lands%sand the Overworld.
+tile.whiteFlower.info=A common flower found%sin the Pride Lands.%sCan be ground into Rug Whitener.
+tile.forestLeaves.info=The block which makes up the%scanopy of Rainforest Trees.%sMay drop a sapling when broken%sor left to decay.
+tile.forestSapling.info=Can be planted on dirt or grass%sto grow Rainforest Trees.%sFour in a square will grow%sa huge tree.
+tile.mangoLeaves.info=Found on Mango Trees.%sMay drop a sapling or a mango%swhen broken or left to decay.
+tile.mangoSapling.info=Can be planted on dirt or grass%sto grow Mango Trees.
+tile.rafikiWood.info=The block which makes up the%strunk of Rafiki's Tree.%sIt cannot be destroyed.
+tile.rafikiLeaves.info=The block which makes up the%scanopies of Rafiki's Tree.%sIt cannot be destroyed.
+tile.woodSlabSingle.0.info=Half blocks made from Acacia%sWood Planks.
+tile.woodSlabSingle.1.info=Half blocks made from Rainforest%sWood Planks.
+tile.woodSlabSingle.2.info=Half blocks made from Mango%sWood Planks.
+tile.woodSlabSingle.3.info=Half blocks made from Passion%sWood Planks.
+tile.woodSlabSingle.4.info=Half blocks made from Banana%sWood Planks.
+tile.woodSlabSingle.5.info=Half blocks made from Deadwood%sPlanks.
+tile.outlandsPortalFrame.0.info=The indestructible frame of an%sOutlands Portal.
+tile.outlandsPortalFrame.1.info=The block which makes up Zira's%sMound in the Outlands.%sIt cannot be destroyed.
+tile.outlandsPortalFrame.2.info=The block which makes up Zira's%sMound in the Outlands.%sIt cannot be destroyed.
+tile.outlandsPortal.info=A block which transports the%splayer between the Pride Lands%sand the Outlands.
+tile.bugTrap.info=Can be placed and baited to%scatch bugs for Timon and Pumbaa.%sThe likelihood of catching a bug%scan be increased or decreased%sby certain conditions.%sThe trap will not catch bugs%sif there are any players%swithin sixteen blocks of it.
+tile.pridestone.0.info=A block found in abundance%sin the Pride Lands.%sCan be made into a range of%stools and building blocks.
+tile.pridestone.1.info=A block found in abundance%sin the Outlands.%sCan be made into a range of%stools and building blocks.
+tile.prideCoal.0.info=An ore often found underground%sin the Pride Lands.%sWill drop coal when broken.
+tile.prideCoal.1.info=An ore often found underground%sin the Outlands.%sWill drop Nuka Shards when broken.
+tile.prideBrick.0.info=A useful building material made%sfrom Pridestone.
+tile.prideBrick.1.info=A useful building material made%sfrom Corrupt Pridestone.
+tile.pridePillar.info=A decorative block which can be%smade into a range of different%ssizes with the Grinding Bowl.
+tile.sapling.info=Can be planted on dirt or grass%sto grow Acacia Trees.
+tile.leaves.info=The block which makes up the%scanopy of Acacia Trees.%sMay drop a sapling when broken%sor left to decay. Can also be%sused to breed Giraffes.
+tile.termite.info=The block which makes up the%stermite mounds found commonly%sin the Outlands.%sIf it is naturally generated,%sit may release Exploding Termites%swhen broken!
+tile.stoneStairs.info=Stairs made from Pridestone.
+tile.brickStairs.info=Stairs made from Pridestone Brick.
+tile.prideBrickMossy.0.info=A decorative block found in%sdungeons in the Pride Lands.
+tile.prideBrickMossy.1.info=Formed from Pridestone Brick as%sa result of the destructive%seffects of Pumbaa Flatulence.
+tile.oreSilver.0.info=An ore found in the Pride Lands.%sCan be smelted into ingots and%sused to make tools, armour and%svarious other items.
+tile.oreSilver.1.info=An ore found in the Outlands.%sCan be smelted into ingots and%smade into tools with a useful%sspecial ability.
+tile.outsand.info=Formed in the Outlands when%ssand is struck by lightning.%sIt is dangerous to walk on. It can%salso be smelted into Outglass.
+tile.outglass.info=A stronger type of glass made%sby smelting Outsand.%sIt drops itself when broken.
+tile.outglassPane.info=A stronger type of glass pane%smade from Outglass blocks.%sIt drops itself when broken.
+tile.starAltar.info=A magical block which can be%sused to summon Simba and%srecharge Voided Charms.%sIt must be placed in direct%sview of the sky.
+tile.slabSingle.0.info=Half blocks made from Pridestone.
+tile.slabSingle.1.info=Half blocks made from%sPridestone Brick.
+tile.slabSingle.2.info=Half blocks made from%sPridestone Pillars.
+tile.slabSingle.3.info=Half blocks made from%sCorrupt Pridestone.
+tile.slabSingle.4.info=Half blocks made from%sCorrupt Pridestone Brick.
+tile.slabSingle.5.info=Half blocks made from%sCorrupt Pridestone Pillars.
+tile.log.info=Part of the fallen logs which are%sfound throughout the Pride Lands.%sLogs can be broken to get bugs%sfor trading with Timon and Pumbaa.
+tile.prideWood.0.info=The block which makes up the%strunks of Acacia Trees.%sIt can be crafted into planks,%sjust like normal wood.
+tile.prideWood.1.info=The block which makes up the%strunks of Rainforest Trees.%sIt can be crafted into planks,%sjust like normal wood.
+tile.prideWood.2.info=The block which makes up the%strunks of Mango Trees.%sIt can be crafted into planks,%sjust like normal wood.
+tile.prideWood.3.info=The block which makes up the%strunks of Passion Fruit Trees.%sIt can be crafted into planks,%sjust like normal wood.
+tile.blueFlower.info=A flower found on mountains%sin the Pride Lands.%sCan be ground into Rug Dye.
+tile.drum.info=Hit it to make music!%sIt can also be activated with a%sRhythm Staff and used to enchant%sitems.
+tile.orePeacock.info=A rare ore found deep%sunderground in the Pride Lands.%sThe gems received from smelting%sit can be made into very strong%stools and armour.
+tile.blockSilver.0.info=Made from silver ingots.%sUsed for storage and%sdecoration.
+tile.blockSilver.1.info=Made from Kivulite ingots.%sUsed for storage and%sdecoration.
+tile.blockPeacock.info=Made from Peacock Gems.%sUsed for storage and%sdecoration.
+tile.rug.info=A decorative rug made from%slion fur.%sAfter being whitened, it can%sbe dyed with a range of%sdifferent materials.
+tile.stoneStairsCorrupt.info=Stairs made from Corrupt%sPridestone.
+tile.brickStairsCorrupt.info=Stairs made from Corrupt%sPridestone Brick.
+tile.aridGrass.info=A type of tall grass that grows%sin arid savannah biomes.
+tile.tilledSand.info=Made by using a hoe on a%sblock of sand in an arid%ssavannah biome.
+tile.kiwanoBlock.info=Fruit found in the arid savannah%sbiome. Also known as the%sAfrican Horned Melon.%sCan be grown on tilled sand%sto produce slices of fruit.
+tile.pressurePlate.info=Will release a charge when%sstepped on.
+tile.button.info=Will release a charge when%spressed.
+tile.lever.info=Used to provide a stable charge.
+tile.outlandsPool.info=A mysterious liquid found inside%sZira's Mound.%sSome items thrown in may%sbe transformed.
+tile.outshroom.info=Found in caves in the Outlands.%sWill grow if left in darkness.
+tile.outshroomGlowing.info=A light source made from a Nuka%sShard and a normal Outshroom.
+tile.pumbaaBox.info=A box containing some extremely%spotent natural gas from the%sPride Lands' resident warthog.%sUse well, and handle with care!
+tile.outlandsAltar.info=Releases transformed items from%sthe Outwater in Zira's Mound.
+tile.lily.0.info=Found in the waters of Pride%sLands rainforests.%sCan be ground into Rug Whitener.
+tile.lily.1.info=Found in the waters of Pride%sLands rainforests.%sCan be ground into Rug Dye.
+tile.lily.2.info=Found in the waters of Pride%sLands rainforests.%sCan be ground into Rug Dye.
+tile.stairsAcacia.info=Stairs made from Acacia Wood%sPlanks.
+tile.stairsRainforest.info=Stairs made from Rainforest%sWood Planks.
+tile.stairsMango.info=Stairs made from Mango Wood%sPlanks.
+tile.planks.0.info=Made from the wood of Acacia%sTrees.%sA readily available building%smaterial which can also be%scrafted into a wide range%sof blocks, tools and items.
+tile.planks.1.info=Made from the wood of Rainforest%sTrees.%sA readily available building%smaterial which can also be%scrafted into a wide range%sof blocks, tools and items.
+tile.planks.2.info=Made from the wood of Mango%sTrees.%sA readily available building%smaterial which can also be%scrafted into a wide range%sof blocks, tools and items.
+tile.planks.3.info=Made from the wood of Passion%sFruit Trees.%sA readily available building%smaterial which can also be%scrafted into a wide range%sof blocks, tools and items.
+tile.planks.4.info=Made from the wood of Banana%sTrees.%sA readily available building%smaterial which can also be%scrafted into a wide range%sof blocks, tools and items.
+tile.planks.5.info=Made from the wood of dead%strees found in the Outlands.%sA readily available building%smaterial which can also be%scrafted into a wide range%sof blocks, tools and items.
+tile.passionSapling.info=Can be planted on dirt or grass%sto grow Passion Fruit Trees.%sThese trees will not grow%snaturally in the Pride Lands,%salthough they can be grown using%sthe Rafiki Stick.
+tile.passionLeaves.info=Found on Passion Fruit Trees.%sMay drop a sapling or a Passion%sFruit when broken or left to%sdecay.
+tile.stairsPassion.info=Stairs made from Passion Wood%sPlanks.
+tile.hyenaTorch.info=An alternative torch made with%sHyena Bones in place of sticks.%sGives off a slightly dimmer light%sthan wooden torches.
+tile.wall.info=A decorative block that can be%sused as an alternative to fences.
+tile.stairsBanana.info=Stairs made from Banana Wood%sPlanks.
+tile.prideWood2.0.info=The block which makes up the%strunks of Banana Trees.%sIt can be crafted into planks,%sjust like normal wood.
+tile.prideWood2.1.info=The block which makes up dead%strees found in the Outlands.%sIt can be crafted into planks,%sjust like normal wood.
+tile.bananaSapling.info=Can be planted on dirt or grass%sto grow Banana Trees.
+tile.bananaLeaves.info=Found on Banana Trees.%sMay drop a sapling when broken%sor left to decay.
+tile.stairsDeadwood.info=Stairs made from Deadwood Planks.
+tile.driedMaizeBlock.info=A building block made from dried%sstalks of maize.%sCan be crafted into stairs and%sslabs.
+tile.driedMaizeSlabSingle.info=Half blocks made from Dried%sMaize blocks.
+tile.stairsDriedMaize.info=Stairs made from Dried Maize%sblocks.
+
+  Item Descriptions
+item.ticket.0.info=Purchased from Ticket Lions in%sexchange for a gold ingot.%sUsed to activate portals to%sthe Pride Lands.
+item.ticket.1.info=Pull it and see what happens!
+item.hyenaBone.info=Dropped by Hyenas.%sUsed in crafting recipes,%sgrinding, and breeding lions.
+item.lionRaw.info=Dropped by Lions and Lionesses.%sCan be cooked to restore%smore hunger.
+item.lionCooked.info=Can be eaten to restore hunger.
+item.rafikiStick.info=Obtained from Rafiki in exchange%sfor a stack of Hyena Bones.%sCan grow saplings, flowers%sand grass, harvest leaves and%svarious other foliage, and is the%sonly weapon that can harm Scar.
+item.purpleFlower.info=A tall flower found in the%sPride Lands, most commonly%sin rainforest biomes.%sCan be ground into Rug Dye.
+item.mango.info=Drops from Mango Trees.%sCan be eaten to restore hunger,%sused in food recipes, or ground%sdown in the Grinding Bowl.
+item.featherBlue.info=Dropped by Zazus.%sCan be crafted into darts, or%sground into Rug Dye.
+item.featherYellow.info=Dropped by Zazus.%sCan be crafted into darts, or%sground into Rug Dye.
+item.featherRed.info=Dropped by Zazus.%sCan be crafted into darts, or%sground into Rug Dye.
+item.dartBlue.info=Can be fired from a Dart Shooter.
+item.dartYellow.info=Can be fired from a Dart Shooter.%sYellow darts travel faster%sthan blue ones, and have a%sknockback effect.
+item.dartRed.info=Can be fired from a Dart Shooter.%sRed darts travel faster than%sblue ones, have a knockback%seffect, and set the target on fire.
+item.dartShooter.info=Used to fire darts.
+item.hyenaBoneShard.info=Made by placing Hyena Bones in%sthe Grinding Bowl.%sUsed in crafting blue, yellow%sand red darts.
+item.zebraBoots.info=When equipped, these allow the%swearer to run at extremely%sfast speeds.
+item.zebraHide.info=Dropped by Zebras.%sUsed to craft Zebra Boots and%sa few other items.
+item.itemGrindingBowl.info=The Grinding Bowl is used to%sprocess items into their ground%sdown forms.%sExamples include turning Hyena%sBones into shards, Rhino Horns%sand mangoes into powders, and%svarious items into Rug Dyes.
+item.mangoDust.info=Made by placing mangoes in%sthe Grinding Bowl.%sUsed in crafting Dart Shooters%sand can also dye rugs.
+item.dartBlack.info=Can be fired from a Dart Shooter.%sOutlandish Darts create an%sexplosion wherever they hit!
+item.featherBlack.info=Dropped by Vultures.%sCan be crafted into Outlandish%sDarts, or ground into Rug Dye.
+item.shovel.info=Used to harvest blocks like%sdirt and sand more quickly.
+item.pickaxe.info=Used to harvest stone-type%sblocks.
+item.axe.info=Used to harvest wood-type%sblocks more quickly.
+item.sword.info=Used to deal more damage%sto mobs.
+item.hoe.info=Used to till dirt into farmland.
+item.itemTermite.info=Dropped by termites from termite%smounds in the Outlands.%sCan be thrown, crafted into%sOutlandish Darts, or ground%sdown and used to dye rugs.
+item.scarRug.info=Dropped by Scar.%sA unique reward which can be%sobtained only once.
+item.jar.info=Can be used to carry water, lava%sand a few other liquids.
+item.jarWater.info=A Pridestone Jar filled with water.%sCan be crafted with various%splants to make a decorative vase.
+item.silver.info=Made by smelting Silver Ore in%sa furnace.%sUsed to make tools, armour%sand various other items.%sRafiki will exchange three silver%singots for a Rafiki Coin.
+item.silverDartShooter.info=Used to fire darts.%sDarts fired from the Silver Dart%sShooter will travel faster and be%smore powerful than darts fired%sfrom the standard Dart Shooter.
+item.shovelSilver.info=Used to harvest blocks like%sdirt and sand more quickly.
+item.pickaxeSilver.info=Used to harvest stone-type%sblocks.
+item.axeSilver.info=Used to harvest wood-type%sblocks more quickly.
+item.swordSilver.info=Used to deal more damage%sto mobs.
+item.hoeSilver.info=Used to till dirt into farmland.
+item.rafikiCoin.info=Obtained from Rafiki in exchange%sfor three silver ingots.%sWhen thrown, the player will be%sinstantly transported to%sRafiki's Tree.
+item.termiteDust.info=Made by placing Exploding Termites%sin the Grinding Bowl.%sCan be used to dye rugs or in%splace of gunpowder to craft TNT.
+item.lionDust.info=Obtained from Rafiki in exchange%sfor one Ground Mango and one%sGround Termite.%sCan be used on a Star Altar to%ssummon Simba, or crafted with%sfour silver ingots into an%sAstral Charm.
+item.tunnahDiggah.info=Obtained from Timon and Pumbaa.%sUsed to dig large tunnels very%squickly through dirt and stone.
+item.crystal.info=Obtained from Timon and Pumbaa.%sWill completely restore the%splayer's health if it drops%sbelow two hearts.
+item.bug.info=Found underneath fallen logs in%sthe Pride Lands. Can also be%scaught with a Bug Trap.%sTimon and Pumbaa love to%seat these!
+item.chocolateMufasa.info=Found in Pride Lands dungeons.%sCan be eaten to restore a lot%sof hunger.
+item.pumbaaBomb.info=Obtained from Timon and Pumbaa.%sWhen thrown, it releases a huge%samount of toxic gas which can%sinstantly kill most creatures.
+item.fur.info=Dropped by Lions and Lionesses.%sUsed in crafting beds and various%sother items.
+item.jarMilk.info=A Pridestone Jar filled with milk.%sCan be fed to angry Lions and%sLionesses to calm them down,%sand is used in the making of%ssome Pride Lands dishes.
+item.zebraRaw.info=Dropped by Zebras.%sCan be cooked to restore%smore hunger.
+item.zebraCooked.info=Can be eaten to restore hunger.
+item.rhinoRaw.info=Dropped by Rhinos.%sCan be cooked to restore%smore hunger.
+item.rhinoCooked.info=Can be eaten to restore hunger.
+item.helmetSilver.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.bodySilver.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.legsSilver.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.bootsSilver.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.vase.info=A decorative vase block.
+item.horn.info=Dropped by Rhinos.%sCan be ground down in the%sGrinding Bowl.
+item.hornGround.info=Made by placing Rhino Horn%sin the Grinding Bowl.%sCan be fed to breeding animals%sto make them produce more%soffspring, and can also dye rugs.
+item.bed.info=Can be slept in to skip the night%sand set the respawn point.
+item.gemsbokHide.info=Dropped by Gemsboks.%sUsed in crafting Gemsbok armour%sand Giraffe Saddles.
+item.gemsbokHorn.info=Dropped by Gemsboks.%sUsed in crafting Gemsbok Spears%sand the Rhythm Staff.
+item.gemsbokSpear.info=A spear that can be thrown and%spicked up again, or used as%sa melee weapon.%sIt may also catch fish if thrown%sinto water.
+item.juice.info=A drink made from mangoes.
+item.helmetGemsbok.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.bodyGemsbok.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.legsGemsbok.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.bootsGemsbok.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.jarLava.info=A Pridestone Jar filled with lava.
+item.peacockGem.info=Made by smelting Peacock Ore in%sa furnace.%sUsed to make tools, armour%sand other items.
+item.shovelPeacock.info=Used to harvest blocks like%sdirt and sand more quickly.
+item.pickaxePeacock.info=Used to harvest stone-type%sblocks.
+item.axePeacock.info=Used to harvest wood-type%sblocks more quickly.
+item.swordPeacock.info=Used to deal more damage%sto mobs.
+item.hoePeacock.info=Used to till dirt into farmland.
+item.helmetPeacock.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.bodyPeacock.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.legsPeacock.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.bootsPeacock.info=Can be equipped to give%sprotection against most%sforms of damage.
+item.rugDye.0.info=Made by placing a flower or a%sWhite Waterlily in the Grinding%sBowl.%sUsed to whiten a Fur Rug%sbefore it is dyed.
+item.rugDye.1.info=Made by placing a Blue%sFeather in the Grinding Bowl.%sUsed to dye Fur Rugs.
+item.rugDye.2.info=Made by placing a Yellow%sFeather in the Grinding Bowl.%sUsed to dye Fur Rugs.
+item.rugDye.3.info=Made by placing a Red%sFeather or a Red Waterlily in%sthe Grinding Bowl.%sUsed to dye Fur Rugs.
+item.rugDye.4.info=Made by placing a flower in%sthe Grinding Bowl.%sUsed to dye Fur Rugs.
+item.rugDye.5.info=Made by placing a flower in%sthe Grinding Bowl.%sUsed to dye Fur Rugs.
+item.rugDye.6.info=Made by placing leaves%sthe Grinding Bowl.%sUsed to dye Fur Rugs.
+item.rugDye.7.info=Made by placing an Outlandish%sFeather in the Grinding Bowl.%sUsed to dye Fur Rugs.
+item.rugDye.8.info=Made by placing a Violet%sWaterlily in the Grinding Bowl.%sUsed to dye Fur Rugs.
+item.rugDye.9.info=Made by placing a Flamingo%sFeather in the Grinding Bowl.%sUsed to dye Fur Rugs.
+item.rugDye.10.info=Made by placing Passion Leaves%sin the Grinding Bowl.%sUsed to dye Fur Rugs.
+item.wings.info=When equipped, these give%sthe wearer the ability of%slimited flight, and protection%sagainst fall damage.
+item.corn.info=Picked from Maize Stalks.%sCan be eaten, cooked, and used%sas an alternative to wheat for%sbreeding Pride Lands animals.
+item.cornStalk.info=Found in the Pride Lands, often%sby rivers or in rainforests.%sCan be grown on farmland which%sis next to water, or dried in a%sfurnace for use in building.
+item.popcorn.info=Can be eaten to restore hunger.
+item.nukaShard.info=Dropped by Nuka Ore.%sCan be used as furnace fuel,%sground down into poison, or%scrafted with an Outshroom to%smake it glow.
+item.outlanderFur.info=Dropped by Outlanders.%sCan be crafted into Fur Rugs.
+item.outlanderMeat.info=Dropped by Outlanders.%sCan be cooked to restore%smore hunger and remove the%spossibility of food poisoning.
+item.passionFruit.info=Drops from Passion Fruit Trees.%sCan be eaten when in full health%sto travel to the Upendi realm.
+item.redFlower.info=A tall, luminous flower found%scommonly in Upendi.%sCan be ground into Rug Dye.
+item.kivulite.info=Made by smelting Kivulite Ore in%sa furnace.%sUsed to make tools with special%sfire-based abilities.
+item.shovelKivulite.info=Used to harvest blocks like%sdirt and sand more quickly.%sSmeltable blocks harvested by a%sKivulite tool are automatically%ssmelted.
+item.pickaxeKivulite.info=Used to harvest stone-type%sblocks.%sSmeltable blocks harvested by a%sKivulite tool are automatically%ssmelted.
+item.axeKivulite.info=Used to harvest wood-type%sblocks more quickly.%sSmeltable blocks harvested by a%sKivulite tool are automatically%ssmelted.
+item.swordKivulite.info=Used to deal more damage%sto mobs.%sMobs hit by a Kivulite sword%sare set on fire.
+item.bugStew.info=A culinary delight made from%sall-natural ingredients.%sCan be eaten to restore%shunger, but may have some%sunwanted effects.
+item.crocodileMeat.info=Dropped by Crocodiles.%sCan be eaten to restore hunger.%sHas a chance to cause%sfood poisoning.
+item.poison.info=Made by placing Nuka Shards in%sthe Grinding Bowl.%sTwo Poison Powders can be%sapplied to a Gemsbok Spear to%sgive it a poison effect.
+item.poisonedSpear.info=A spear that can be thrown and%spicked up again, or used as%sa melee weapon.%sMobs hit by this spear have a%schance of becoming poisoned.
+item.xpGrub.info=Obtained from Timon and Pumbaa.%sCan be eaten to gain a moderate%samount of experience.
+item.shovelCorrupt.info=Used to harvest blocks like%sdirt and sand more quickly.%sCorrupt Pridestone tools are%sstrong when first crafted, but%sweaken with use.
+item.pickaxeCorrupt.info=Used to harvest stone-type%sblocks.%sCorrupt Pridestone tools are%sstrong when first crafted, but%sweaken with use.
+item.axeCorrupt.info=Used to harvest wood-type%sblocks more quickly.%sCorrupt Pridestone tools are%sstrong when first crafted, but%sweaken with use.
+item.swordCorrupt.info=Used to deal more damage%sto mobs.%sCorrupt Pridestone tools are%sstrong when first crafted, but%sweaken with use.
+item.charm.0.info=Can be equipped to Simba to%sallow him to follow the player%sthrough portals.
+item.charm.1.info=Dropped by Simba if he was%sequipped with an Astral Charm.%sCan be recharged at the%sStar Altar.
+item.zazuEgg.info=Dropped by Zazus when%sthey breed.%sMay spawn a baby Zazu%swhen thrown.
+item.kiwano.info=Dropped by Kiwano fruit.%sCan be eaten to restore hunger,%sor crafted into seeds.
+item.kiwanoSeeds.info=Can be placed on Tilled Sand%sto grow a Kiwano.
+item.ticketLionHead.info=A novelty item found in%sLion King Ticket Booths.%sCollect the full set!
+item.ticketLionSuit.info=A novelty item found in%sLion King Ticket Booths.%sCollect the full set!
+item.ticketLionLegs.info=A novelty item found in%sLion King Ticket Booths.%sCollect the full set!
+item.ticketLionFeet.info=A novelty item found in%sLion King Ticket Booths.%sCollect the full set!
+item.questBook.info=You're reading it now!
+item.outlandsHelm.info=Protects against fire and%sOutlanders when in the Outlands.
+item.dartQuiver.info=Found in Pride Lands dungeons.%sCan hold up to six stacks%sof darts.
+item.outlandsFeather.info=Can be used to travel quickly%sbetween the Pride Lands and%sthe Outlands without the need%sfor a portal.%sHowever, this method of%stravel is not as stable as a%sportal, and the results are%sunpredictable.
+item.ziraRug.info=Dropped by Zira.%sIt complements the Scar Rug%snicely as a pleasant decoration%sin the home.
+item.ziraCoin.info=Created when a Rafiki Coin is%sdropped into the Outwater.%sWhen thrown, the player will be%sinstantly transported to%sZira's Mound.
+item.hyenaHeadItem.info=A rare decorative block sometimes%sdropped by Hyenas.
+item.amulet.info=Obtained from Timon and Pumbaa.%sAllows the wearer to speak to the%sanimals of the Pride Lands.
+item.mountedShooterItem.0.info=A Dart Shooter that can be%splaced in the world.%sIt holds up to one stack of darts%sand will fire when powered.
+item.mountedShooterItem.1.info=A Silver Dart Shooter that can%sbe placed in the world.%sIt holds up to one stack of darts%sand will fire when powered.
+item.staff.info=Used to enchant items on a%sBongo Drum and collect notes%sto increase the drum's power.%sWhen a creature is killed with%sthis staff, it may drop some notes.
+item.note.info=Dropped from creatures killed%swith a Rhythm Staff.%sCan be placed in a Bongo Drum%sto increase its enchanting power.%sRarer notes have higher values.
+item.giraffeSaddle.info=Can be equipped to an adult%sGiraffe to allow it to%sbe ridden.
+item.giraffeSaddle.info=Used to saddle an adult giraffe,%sallowing it to wear a tie%sand be ridden.
+item.spawnEgg.info=Used to spawn a creature from%sthe Lion King worlds.
+item.tie.info=Used to customise your saddled%sGiraffes.%sAfter being whitened with Rug%sWhitener, a tie can be dyed in%sa variety of different colours.
+item.yam.info=A vegetable found growing in%ssavannah biomes.%sCan be farmed, and roasted to%srestore more hunger. If eaten%sraw, it may cause food poisoning.
+item.roastYam.info=Can be eaten to restore hunger.
+item.banana.info=Grows on Banana Trees.%sCan be eaten to restore hunger,%sor used in food recipes.
+item.bananaCake.info=Can be placed in the world and%seaten to restore hunger.
+item.featherPink.info=Dropped by Flamingos.%sCan be crafted into Flamingo%sDarts, or ground into Rug Dye.
+item.dartPink.info=Can be fired from a Dart Shooter.%sFlamingo Darts have the ability%sto drain health from the%screature they hit.
+item.bananaBread.info=Can be eaten to restore hunger.
+item.hyenaMeal.info=Used to grow plants and crops in%sthe Pride Lands.
+item.cornKernels.info=Can be used as an alternative to%sseeds for breeding Zazus.
+item.driedMaize.info=Can be crafted into Dried Maize%sbuilding materials.
+
+  Additional Items
+item.hyenaHead.0.name=Spotted Hyena Head
+item.hyenaHead.1.name=Striped Hyena Head
+item.hyenaHead.2.name=Aardwolf Head
+item.hyenaHead.3.name=Brown Hyena Head
+item.hyenaHead.0.info=A rare decorative block sometimes%sdropped by Hyenas.
+item.hyenaHead.1.info=A rare decorative block sometimes%sdropped by Hyenas.
+item.hyenaHead.2.info=A rare decorative block sometimes%sdropped by Hyenas.
+item.hyenaHead.3.info=A rare decorative block sometimes%sdropped by Hyenas.
+
+item.lkHoe.pridestone.name=Pridestone Hoe
+item.lkHoe.silver.name=Silver Hoe
+item.lkHoe.peacock.name=Peacock Hoe
+item.lkHoe.kivulite.name=Kivulite Hoe
+item.lkHoe.corrupt.name=Corrupt Pridestone Hoe
+item.lkHoe.pridestone.info=Used to till dirt into farmland.
+item.lkHoe.silver.info=Used to till dirt into farmland.
+item.lkHoe.peacock.info=Used to till dirt into farmland.
+item.lkHoe.kivulite.info=Used to till dirt into farmland.%sSmeltable blocks harvested by a%sKivulite tool are automatically%ssmelted.
+item.lkHoe.corrupt.info=Used to till dirt into farmland.%sCorrupt Pridestone tools are%sstrong when first crafted, but%sweaken with use.
+
+item.groundRhinoHorn.name=Ground Rhino Horn
+item.groundRhinoHorn.info=Made by placing Rhino Horn%sin the Grinding Bowl.%sCan be fed to breeding animals%sto make them produce more%soffspring, and can also dye rugs.
+
+item.giraffeTie.0.name=Giraffe Tie
+item.giraffeTie.1.name=White Giraffe Tie
+item.giraffeTie.2.name=Blue Giraffe Tie
+item.giraffeTie.3.name=Yellow Giraffe Tie
+item.giraffeTie.4.name=Red Giraffe Tie
+item.giraffeTie.5.name=Purple Giraffe Tie
+item.giraffeTie.6.name=Green Giraffe Tie
+item.giraffeTie.7.name=Black Giraffe Tie
+item.giraffeTie.0.info=Can be worn by a saddled adult%sgiraffe for decoration.
+item.giraffeTie.1.info=Can be worn by a saddled adult%sgiraffe for decoration.
+item.giraffeTie.2.info=Can be worn by a saddled adult%sgiraffe for decoration.
+item.giraffeTie.3.info=Can be worn by a saddled adult%sgiraffe for decoration.
+item.giraffeTie.4.info=Can be worn by a saddled adult%sgiraffe for decoration.
+item.giraffeTie.5.info=Can be worn by a saddled adult%sgiraffe for decoration.
+item.giraffeTie.6.info=Can be worn by a saddled adult%sgiraffe for decoration.
+item.giraffeTie.7.info=Can be worn by a saddled adult%sgiraffe for decoration.
+
+  Items - Food
+item.lkFood.name=Food
+item.lkFood.info=A tasty treat from the Pride Lands.
+
+item.banana.name=Banana
+item.banana.info=A sweet fruit that restores hunger.%sCan be placed on Pride Wood%sto grow hanging bananas.
+
+item.bugStew.name=Bug Stew
+item.bugStew.info=A hearty stew made from bugs.%sRestores hunger, but may cause%snausea or poisoning.
+
+  Items - Equipment and Tools
+item.dartShooter.name=Dart Shooter
+item.dartShooter.info=A ranged weapon that shoots darts.%sRequires darts in your inventory%sto fire.
+
+item.silverDartShooter.name=Silver Dart Shooter
+item.silverDartShooter.info=A stronger and faster version%sof the Dart Shooter.
+
+item.dartQuiver.name=Dart Quiver
+item.dartQuiver.info=A handy container for storing%sdarts. Right-click to open%sand manage your dart supply.
+
+item.lkAxe.name=Axe
+item.lkAxe.info=A sturdy tool for chopping wood%sand breaking wooden blocks.
+
+item.axeFire.name=Fire Axe
+item.axeFire.info=A blazing axe that instantly%ssmelts certain blocks when broken,%sdropping their furnace output.
+
+item.axeCorrupt.name=Corrupt Axe
+item.axeCorrupt.info=A corrupted axe that starts strong%sbut weakens as it takes damage.
+
+item.lkArmor.name=Armor
+item.lkArmor.info=Protective gear crafted for combat%sin the Pride Lands.
+
+item.amulet.name=Pride Lands Amulet
+item.amulet.info=A mystical amulet tied to the%sPride Lands. Worn as a chestpiece%sfor protection or quest purposes.
+
+  Items - Quest and Miscellaneous
+item.dust.name=Star Dust
+item.dust.info=Uncommon dust used on a Star Altar%sto summon Simba from the sky.
+
+item.coinPrideLands.name=Pride Lands Coin
+item.coinPrideLands.info=A coin imbued with the spirit%sof the Pride Lands.%sRight-click to throw it%sin the Pride Lands dimension.
+item.coinOutlands.name=Outlands Coin
+item.coinOutlands.info=A coin forged in the harsh%sOutlands.%sRight-click to throw it%sin the Outlands dimension.
+
+item.lkItem.name=Item
+item.lkItem.info=A miscellaneous item from%sthe Pride Lands.
+
+  Items - Decorative and Utility
+item.lkBed.name=Pride Lands Bed
+item.lkBed.info=A cozy bed crafted in the style%sof the Pride Lands.%sPlace it to sleep and set your spawn point.
+
+item.lkBlockPlacer.name=Block Placer
+item.lkBlockPlacer.info=A decorative item used to place%sspecial blocks in the world.
+
+  Tile Entities
+tile.mountedShooter.name=Mounted Shooter
+tile.mountedShooter.info=A stationary device that shoots darts.
+tile.mountedShooterSilver.name=Silver Mounted Shooter
+tile.mountedShooterSilver.info=A stronger silver variant of the Mounted Shooter.
+
+tile.mobSpawner.name=Pride Lands Mob Spawner
+tile.mobSpawner.info=A mystical spawner that summons%screatures of the Pride Lands.
+
+tile.hyenaHead.name=Hyena Head
+tile.hyenaHead.info=A trophy head of a hyena,%smounted on the wall.
+
+tile.bugTrap.name=Bug Trap
+tile.bugTrap.info=A trap designed to display%scaptured bugs or items.
+
+  Messages
+message.lionking.crystal_heal=The Hakuna Matata Crystal restored your health!
+
+  Signs
+sign.line1=---------------
+sign.line2=Now showing:
+sign.line3=The Lion King
+sign.line4=---------------
+
+  Dimensions
+dimension.pridelands.welcome=welcome
+dimension.pridelands.depart=depart
+dimension.upendi.welcome=welcome
+dimension.upendi.depart=depart
+dimension.outlands.welcome=Entering Outlands
+dimension.outlands.depart=Leaving Outlands
+
+  Enchantments
+enchantment.tunnahDiggah=Tunnah Diggah
+enchantment.rafikiThunder=Rafiki Thunder
+enchantment.rafikiDurability=Rafiki Durability
+enchantment.rafikiDamage=Rafiki Damage
+enchantment.hyena=Hyena Bane
+
+  Update Notification
+lionking.update_available=\u00a7eThe Lion King Mod: \u00a7fUpdate available! (%s)
+
+  Dialogues - Ticket Lion
+chat.ticketLion.christmas=§e<Ticket Lion> §fMerry Christmas! Have a cracker!
+chat.ticketLion.tradeSuccess=§e<Ticket Lion> §fThank you. Use the ticket to open the portal in the room behind me.
+chat.ticketLion.tradeRequest=§e<Ticket Lion> §fBring me a gold ingot and I will exchange it for a Lion King Ticket.
+
+  Dialogues - Rafiki
+chat.rafiki.welcome=§e<Rafiki> §fOhoho! Welcome to the Pride Lands!
+chat.rafiki.coin_give=§e<Rafiki> §fThrow a coin on the ground and it will bring you to me!
+chat.rafiki.coin_need=§e<Rafiki> §fYou'll need three silver ingots if you want a coin.
+chat.rafiki.book_give=§e<Rafiki> §fHere's another Book of Quests.
+chat.rafiki.stick_offer=§e<Rafiki> §fWhat's that? You like my stick? Well, bring old Rafiki a stack of hyena bones and you can have one yourself!
+chat.rafiki.stick_give=§e<Rafiki> §fHere you go! If you want one again, bring me another stack of hyena bones.
+chat.rafiki.stick_another=§e<Rafiki> §fHere's another stick.
+chat.rafiki.scar_return=§e<Rafiki> §fI hear Scar has returned to the Pride Lands, and he has trapped our king in the Star Realm! You must find Scar and kill him. My stick is the only weapon that can harm him!
+chat.rafiki.asante_sana=§e<Rafiki> §fAsante sana, squash banana, wewe nugu, mimi hapana...
+chat.rafiki.portal_start=§e<Rafiki> §fThis portal will take you to the Outlands. I want you to go there, collect four termites, and grind them up.
+chat.rafiki.portal_guide=§e<Rafiki> §fMay Mufasa guide you in that dreadful place...
+chat.rafiki.termite_taken=§e<Rafiki> §fWonderful! Now I just need four ground mango dust, and it will be ready...
+chat.rafiki.mango_taken=§e<Rafiki> §fNow it is time!
+chat.rafiki.dust_kings=§e<Rafiki> §fI have long known that the great kings of the past are up there in the stars, watching over us.
+chat.rafiki.dust_discovery=§e<Rafiki> §fBut it is only recently that I have discovered a way to bring them back to the Pride Lands.
+chat.rafiki.dust_magic=§e<Rafiki> §fWith the materials you have given me, I can create a dust so magical that you can use it to undo Scar's work and return our king from the stars!
+chat.rafiki.dust_give=§e<Rafiki> §fHere it is! Now, listen carefully and I will tell you what to do with it.
+chat.rafiki.altar_craft=§e<Rafiki> §fYou need to use three of the dust and three silver ingots to craft a Star Altar.
+chat.rafiki.altar_use=§e<Rafiki> §fThen place it outside, and use the last dust on it. If you need more dust, bring me the two ingredients again.
+chat.rafiki.dust_more=§e<Rafiki> §fHere's some more dust!
+chat.rafiki.zira_return=§e<Rafiki> §fOhoho! Old Rafiki was never gone for good! But you've kicked up quite a stink here, haven't you?
+chat.rafiki.zira_end=§e<Rafiki> §fNow's your chance to put things right. Go through that portal and put an end to Zira's outlandish scheme!
+
+  Dialogues - Rafiki (LKCharacterSpeech)
+chat.rafiki.hyena_bones=§e<Rafiki> §fBring me a stack of hyena bones for a stick!
+chat.rafiki.mention_scar=§e<Rafiki> §fYou must defeat Scar first!
+chat.rafiki.termites=§e<Rafiki> §fBring me four termite dusts!
+chat.rafiki.mangoes=§e<Rafiki> §fBring me four ground mango dusts!
+chat.rafiki.star_altar=§e<Rafiki> §fHave you used the dust on the Star Altar yet?
+chat.rafiki.hint=§e<Rafiki> §fKeep exploring, young one!
+
+  Dialogues - Quest Interactions
+chat.gemsbok.quest=The gemsbok offers you some items for your quest!
+chat.lion.calmed=The lion calms down after drinking the milk.
+chat.lion.hostile=The lion is too angry to interact!
+chat.animal.quest_start=§e<%s> §fI need you to bring me %s!
+chat.animal.quest_end=§e<%s> §fThank you! Here's your reward!
+chat.animal.speech.greeting=§e<%s> §fHello, friend! Do you want to help me?
+chat.animal.speech.busy=§e<%s> §fI'm waiting for something important...
+chat.animal.child_speech.play=§e<%s> §fCan we play together?
+chat.animal.child_speech.hungry=§e<%s> §fI'm so hungry!
+
+  Dialogues - Pumbaa Quest
+chat.pumbaa.stage0=§e<Pumba> §fHi there, kid.
+chat.pumbaa.stage1=§e<Timon> §fYou look down. Can we help?
+chat.pumbaa.stage2=§e<Pumba> §fWhat's that you say? Outlanders have taken over Rafiki's tree?
+chat.pumbaa.stage3=§e<Timon> §fOutlanders? Man, I hate Outlanders. Almost as much as I hate hyenas, and I HATE hyenas.
+chat.pumbaa.stage4=§e<Pumba> §fRafiki is an old friend of ours, but I don't think Timon and I could stand a chance against... wait! Timon!
+chat.pumbaa.stage5=§e<Pumba> §f*whispers*
+chat.pumbaa.stage6=§e<Timon> §fPumbaa, that's the most ridiculous idea I've ever heard.
+chat.pumbaa.stage7=§e<Timon> §fHold on! I just had a great idea! Pumbaa here could - er, pass gas, and those Outlanders would move out of that tree faster than a wildebeest stampede!
+chat.pumbaa.stage8=§e<Pumba> §fI'm not going within a hundred blocks of those vicious lions. And you'd need some very powerful flatulence. I know! I'll give you a Pumbbox!
+chat.pumbaa.stage9=§e<Timon> §fBring Pumbaa some planks, sixteen bugs, a jar of lava and an Exploding Termite, and we'll cook up some weapons of gas destruction.
+chat.pumbaa.stage12=§e<Timon> §fThere you go! Now take that boom box up to Rafiki's tree and teach those Outlanders not to mess with our Pride Lands!
+
+chat.pumbaa.craft_start=§e<Pumba> §fStand back!
+chat.pumbaa.need_ingredients1=§e<Pumba> §fI'll need sixteen bugs to get myself going, a jar of lava and an Exploding Termite to heat things up, and some planks to put it all in.
+chat.pumbaa.need_ingredients2=§e<Timon> §fThe flatulence needs to be extremely powerful for there to be even a hope of this working. Get us those ingredients!
+chat.pumbaa.need_ingredients3=§e<Timon> §fBring Pumbaa planks, sixteen bugs, a termite and a jar of lava and he'll give you the flatulence.
+chat.pumbaa.need_ingredients4=§e<Pumba> §fKid, we want to help, but I just don't have those ingredients yet!
+
+  Speech - Zazu (Morning Report)
+speech.lionking.zazu.morning_report.0=The chimps are going ape!
+speech.lionking.zazu.morning_report.1=As usual, Giraffes remain above it all.
+speech.lionking.zazu.morning_report.2=Elephants remember. Though just what I can't recall...
+speech.lionking.zazu.morning_report.3=Crocodiles are snapping up new offers from the banks.
+speech.lionking.zazu.morning_report.4=We haven't paid the hornbills!
+speech.lionking.zazu.morning_report.5=The rabbits have been breeding by leaps and bounds.
+speech.lionking.zazu.morning_report.6=The lions are taking great pride in their families.
+speech.lionking.zazu.morning_report.7=Warthogs have been thwarted in attempts to save their gas.
+speech.lionking.zazu.morning_report.8=The buzz from the bees is that the leopards are in a bit of a spot.
+speech.lionking.zazu.morning_report.9=Cheetahs never prosper!
+speech.lionking.zazu.morning_report.10=Two silk worms had a race. They ended up in a tie.
+speech.lionking.zazu.morning_report.11=A snail's lost its shell. It's been very sluggish recently.
+speech.lionking.zazu.morning_report.12=Bears have been fighting again, but this time it's turned grizzly!
+speech.lionking.zazu.morning_report.13=The owls have been complaining again, but quite honestly, I don't give a hoot about them.
+speech.lionking.zazu.morning_report.14=Pigs are losing their voices! They seem very disgruntled.
+speech.lionking.zazu.morning_report.15=You can't trust a tiger. You never know when he could be lion...
+
+  Speech - Rafiki (Hyena Bones)
+speech.lionking.rafiki.hyena_bones.0=I need sixty-four hyena bones if you want one of my sticks.
+speech.lionking.rafiki.hyena_bones.1=You don't have those hyena bones yet? A cub could do better!
+speech.lionking.rafiki.hyena_bones.2=Bring me a stack of hyena bones if you want me to give you a stick.
+speech.lionking.rafiki.hyena_bones.3=No stick for you until I get my hyena bones!
+speech.lionking.rafiki.hyena_bones.4=Help rid the Pride Lands of hyenas first. Then you'll get your stick.
+speech.lionking.rafiki.hyena_bones.5=If you want my stick, I need sixty-four hyena bones.
+speech.lionking.rafiki.hyena_bones.6=What happened to that stack of hyena bones you promised me?
+speech.lionking.rafiki.hyena_bones.7=Come back when you have the hyena bones.
+
+  Speech - Rafiki (Mention Scar)
+speech.lionking.rafiki.mention_scar.0=You need to kill Scar! He's a danger to us all!
+speech.lionking.rafiki.mention_scar.1=While Scar lives, the Pride Lands are in danger!
+speech.lionking.rafiki.mention_scar.2=May the great kings of the past watch over you.
+speech.lionking.rafiki.mention_scar.3=I think Scar is in a cave somewhere nearby...
+speech.lionking.rafiki.mention_scar.4=You should try looking underground for Scar.
+speech.lionking.rafiki.mention_scar.5=My stick is the only weapon which can harm Scar.
+
+  Speech - Rafiki (Termites)
+speech.lionking.rafiki.termites.0=I know the Outlands are dangerous, but we can't continue until you bring me four ground termites.
+speech.lionking.rafiki.termites.1=I need four ground termites!
+speech.lionking.rafiki.termites.2=Once I have four ground termites, we can carry on.
+speech.lionking.rafiki.termites.3=You'll need to put the termites in a Grinding Bowl.
+speech.lionking.rafiki.termites.4=I need ground termites for a reason, you know...
+speech.lionking.rafiki.termites.5=Do you have those ground termites yet?
+speech.lionking.rafiki.termites.6=Find some termites, put them in a Grinding Bowl, and bring them to old Rafiki.
+
+  Speech - Rafiki (Mangoes)
+speech.lionking.rafiki.mangoes.0=Bring me four ground mangoes!
+speech.lionking.rafiki.mangoes.1=I only need four ground mangoes, then we can carry on!
+speech.lionking.rafiki.mangoes.2=Hurry up with the mango dust!
+speech.lionking.rafiki.mangoes.3=I want my ground mangoes.
+speech.lionking.rafiki.mangoes.4=Have you been eating all the mangoes?
+speech.lionking.rafiki.mangoes.5=You need to find four mangoes and put them all in the Grinding Bowl.
+speech.lionking.rafiki.mangoes.6=You don't have the mangoes yet? It's not as if they grow on trees...
+
+  Speech - Rafiki (Star Altar)
+speech.lionking.rafiki.star_altar.0=You need to craft a Star Altar with three Rafiki Dust and three silver ingots.
+speech.lionking.rafiki.star_altar.1=Use some Rafiki Dust on the Star Altar!
+speech.lionking.rafiki.star_altar.2=The Star Altar must be placed in view of the sky.
+speech.lionking.rafiki.star_altar.3=Go and use the Star Altar.
+
+  Speech - Rafiki (Hints)
+speech.lionking.rafiki.hint.0=Are you taking good care of Simba?
+speech.lionking.rafiki.hint.1=How is Simba doing? Is he dead yet?
+speech.lionking.rafiki.hint.2=I hope you've been feeding Simba.
+speech.lionking.rafiki.hint.3=Don't listen to me, I'm just a crazy old monkey.
+speech.lionking.rafiki.hint.4=When Simba grows up, he can carry things for you!
+speech.lionking.rafiki.hint.5=Why not go and kill some more hyenas? Pesky, slobbering, mangy creatures...
+speech.lionking.rafiki.hint.6=Have you found Timon and Pumbaa yet?
+speech.lionking.rafiki.hint.7=You are a baboon, and I am not. Ha!
+speech.lionking.rafiki.hint.8=You had better be replanting all those mango trees!
+speech.lionking.rafiki.hint.9=Go and play with Simba.
+speech.lionking.rafiki.hint.10=I hear you can find chocolate treats in dungeons round here.
+speech.lionking.rafiki.hint.11=Zebras are black, with white stripes.
+speech.lionking.rafiki.hint.12=Did you know that my stick can harvest leaves?
+speech.lionking.rafiki.hint.13=I wish there were some bananas nearby.
+speech.lionking.rafiki.hint.14=I wasn't always this old, you know.
+speech.lionking.rafiki.hint.15=Try taking Simba into some water. It can be a rewarding experience.
+speech.lionking.rafiki.hint.16=Where have all the flowers gone?
+speech.lionking.rafiki.hint.17=If you've lost your Pride Lands portal, you can look in the Book of Quests to find its location.
+speech.lionking.rafiki.hint.18=Peacock Gems are useful for making very powerful tools.
+speech.lionking.rafiki.hint.19=If a Rafiki Tree falls in the Pride Lands and no one is around, does it make a sound?
+speech.lionking.rafiki.hint.20=I hear that angry lions will calm down again when fed Zebra Milk.
+speech.lionking.rafiki.hint.21=You can take Simba through portals to other realms! Just craft an Astral Charm and give it to him.
+speech.lionking.rafiki.hint.22=Lightning strikes in the Outlands form Outsand.
+speech.lionking.rafiki.hint.23=You can recharge Voided Charms at the Star Altar.
+speech.lionking.rafiki.hint.24=In Upendi... where the passion fruit grows sweet!
+speech.lionking.rafiki.hint.25=I hear there are minerals in the Outlands with dark and dangerous powers.
+speech.lionking.rafiki.hint.26=You smell of Pumbaa Flatulence...
+speech.lionking.rafiki.hint.27=Roses are red, Zazus are blue. Some poems rhyme... and this one does too.
+speech.lionking.rafiki.hint.28=Corrupt Pridestone makes some of the strongest tools, but they weaken very quickly.
+speech.lionking.rafiki.hint.29=You should try enchanting my stick. The results can be thunderously good.
+speech.lionking.rafiki.hint.30=Some of the termite mounds in the Outlands have treasure inside them!
+speech.lionking.rafiki.hint.31=I haven't seen Ticket Lion in a while. He's an old friend of mine, you know.
+speech.lionking.rafiki.hint.32=Don't even think about stealing any torches from my tree.
+speech.lionking.rafiki.hint.33=Mango! Milk! A bug and a bowl! Stewing insects is my goal!
+speech.lionking.rafiki.hint.34=Beware of speaking to Zira. You can't trust her!
+speech.lionking.rafiki.hint.35=Be careful in the Outlands. There are dangerous and evil creatures there.
+speech.lionking.rafiki.hint.36=Do you still have Scar's rug?
+speech.lionking.rafiki.hint.37=Have you tried crafting some Peacock Wings yet?
+speech.lionking.rafiki.hint.38=Giraffes have come to the Pride Lands! I love giraffes!
+speech.lionking.rafiki.hint.39=What time does the narwhal bacon?
+
+  Speech - Rafiki (Flowers)
+speech.lionking.rafiki.flowers.0=What beautiful flowers!
+speech.lionking.rafiki.flowers.1=Those flowers are simply divine.
+speech.lionking.rafiki.flowers.2=Oh, I do like those flowers.
+speech.lionking.rafiki.flowers.3=The flowers are just wonderful.
+speech.lionking.rafiki.flowers.4=The flowers of the Pride Lands bring tears to my eyes!
+speech.lionking.rafiki.flowers.5=Such marvellous flowers you have there.
+
+  Speech - Timon (BUGS) 
+speech.lionking.timon.bugs.0=Do you have those bugs yet?
+speech.lionking.timon.bugs.1=We're really hungry! Please, bring us some bugs.
+speech.lionking.timon.bugs.2=If you bring us some nice juicy bugs, I might have some rewards for you.
+speech.lionking.timon.bugs.3=Stop staring at me. Bring me some bugs!
+speech.lionking.timon.bugs.4=There must be a fallen log somewhere around here!
+speech.lionking.timon.bugs.5=You can find bugs under fallen logs.
+speech.lionking.timon.bugs.6=Hurry up with those bugs. Pumbaa and I are starving!
+
+  Speech - Timon (MORE_BUGS) 
+speech.lionking.timon.more_bugs.0=Those bugs were delicious. But there's always room for more!
+speech.lionking.timon.more_bugs.1=You want something else from me? Bring us some more bugs.
+speech.lionking.timon.more_bugs.2=We're still hungry, you know.
+speech.lionking.timon.more_bugs.3=Stop staring at me. Bring me more bugs!
+speech.lionking.timon.more_bugs.4=There's plenty of bugs left in the Pride Lands. Take the hint?
+speech.lionking.timon.more_bugs.5=Do you have any more bugs?
+speech.lionking.timon.more_bugs.6=I'm not full yet. Come back when you have some more bugs.
+speech.lionking.timon.more_bugs.7=Have you tried using a Bug Trap? You can get even more bugs that way!
+speech.lionking.timon.more_bugs.8=If you can't find any logs, try making a Bug Trap!
+speech.lionking.timon.more_bugs.9=Bugs don't just hide under logs. You can lure them out into the open with a trap and the right bait.
+
+  Speech - Scar (RUG_SCAR) 
+speech.lionking.scar.rug.0=How dare you treat me like this?
+speech.lionking.scar.rug.1=Life's just not fair.
+speech.lionking.scar.rug.2=Now I shall never be king.
+speech.lionking.scar.rug.3=No! Stop treading on me!
+speech.lionking.scar.rug.4=If I admit to killing Mufasa, will you let me go?
+speech.lionking.scar.rug.5=Minions! Obliterate this scum!
+speech.lionking.scar.rug.6=Where are my minions?
+speech.lionking.scar.rug.7=Who did this to me? My minions shall tear their flesh apart!
+speech.lionking.scar.rug.8=I should have snapped that Rafiki Stick while I had the chance.
+speech.lionking.scar.rug.9=You will pay for this mockery!
+speech.lionking.scar.rug.10=Where am I? Who are you? I despise guessing games.
+speech.lionking.scar.rug.11=It's the hyenas who are the real enemy. It was their fault. It was their idea!
+speech.lionking.scar.rug.12=Why did I rely on those idiotic hyenas?
+speech.lionking.scar.rug.13=As far as brains go, I got the lion's share. You seem to be at the shallow end of the gene pool.
+speech.lionking.scar.rug.14=I've got a lovely bunch of coconuts. There they are, all standing in a row...
+speech.lionking.scar.rug.15=I strongly dislike being a rug.
+speech.lionking.scar.rug.16=Alas, it seems I shall be occupying pride of place in someone's living room for the rest of my days.
+speech.lionking.scar.rug.17=I feel quite rugged right now.
+speech.lionking.scar.rug.18=Zazu always did say I'd make a very handsome throw rug.
+
+  Speech - Zira (ZIRA_INGOTS) 
+speech.lionking.zira.ingots.0=Bring me five kivulite and two silver ingots.
+speech.lionking.zira.ingots.1=I tire of waiting for the ingots.
+speech.lionking.zira.ingots.2=Need I remind you how hungry these Outlanders are?
+speech.lionking.zira.ingots.3=What? You don't have the silver and kivulite yet?
+speech.lionking.zira.ingots.4=You are most incompetent. Perhaps we should have attacked you after all.
+speech.lionking.zira.ingots.5=Surely it doesn't take this long to collect a few ingots?
+speech.lionking.zira.ingots.6=Haven't you found any kivulite yet? There's probably some in the caves nearby.
+
+  Speech - Zira (ZIRA_FEATHERS) 
+speech.lionking.zira.feathers.0=You don't have the feathers yet? I thought better of you.
+speech.lionking.zira.feathers.1=I need three Wayward Feathers!
+speech.lionking.zira.feathers.2=To get a Wayward Feather, you have to give the Outwater blue, yellow, red and black feathers.
+speech.lionking.zira.feathers.3=Go and kill some vultures. I never liked those birds.
+speech.lionking.zira.feathers.4=No, of course I'm not going to tell you what I need the feathers for.
+speech.lionking.zira.feathers.5=You get black feathers from vultures, and the other types from those infuriating Zazus in the Pride Lands.
+speech.lionking.zira.feathers.6=The Wayward Feathers aren't going to collect themselves, are they?
+
+  Speech - Zira (ZIRA_CONQUEST) 
+speech.lionking.zira.conquest.0=This tree looks much nicer now it's under our control.
+speech.lionking.zira.conquest.1=The Pride Lands will be mine soon!
+speech.lionking.zira.conquest.2=We couldn't have got here without your help. Scar would have been proud of you.
+speech.lionking.zira.conquest.3=I'll never see a single vulture again!
+speech.lionking.zira.conquest.4=Have you tried throwing some more things into the Outwater? Of course, I wouldn't go back there, but it's worth experimenting with that strange pool.
+speech.lionking.zira.conquest.5=I wonder what Rafiki thought Timon and Pumbaa could possibly do against me?
+speech.lionking.zira.conquest.6=We will take this entire kingdom... by force!
+
+  Speech - Zira (RUG_ZIRA)
+speech.lionking.zira.rug.0=Well, I never thought I'd end up like this.
+speech.lionking.zira.rug.1=This is very uncomfortable.
+speech.lionking.zira.rug.2=My Outlanders will exact a terrible revenge on you.
+speech.lionking.zira.rug.3=I now see the path to our glorious return to power!
+speech.lionking.zira.rug.4=Scar is gone, but Zira's still around...
+speech.lionking.zira.rug.5=Outlanders! Annihilate this fool!
+speech.lionking.zira.rug.6=Keep poking me like that and I shall bring a swift end to your pitiful existence!
+speech.lionking.zira.rug.7=You have turned me into an ornament? How dare you!
+speech.lionking.zira.rug.8=A plague of vultures shall avenge my death!
+
+  Speech - Lion / Lioness (LION / LIONESS)
+speech.lionking.lion.0=By Mufasa's mane! You can understand me!
+speech.lionking.lion.1=I like to chew on hyena bones before I breed.
+speech.lionking.lion.2=Hyenas. Filthy, slobbering, mangy creatures...
+speech.lionking.lion.3=It's a wonderful day in the Pride Lands today.
+speech.lionking.lion.4=I haven't seen any hyenas recently. Have you?
+speech.lionking.lion.5=I've applied to be a Ticket Lion. They haven't responded yet.
+speech.lionking.lion.6=And how are you today, human?
+speech.lionking.lion.7=What do you call a lion running a copying machine? A copycat!
+speech.lionking.lion.8=Simba was moving too slowly, so I told him to Mufasa.
+
+  Speech - Lion Cub / Lioness Cub (LION_CUB / LIONESS_CUB)
+speech.lionking.lion_cub.0=Roar!
+speech.lionking.lion_cub.1=Grrr!
+speech.lionking.lion_cub.2=Rrr!
+
+  Speech - Zebra (ZEBRA) 
+speech.lionking.zebra.0=Stay away from the rainforests at night. That's when the crocodiles come out.
+speech.lionking.zebra.1=I nearly got eaten by a crocodile! Good thing I can run faster than them.
+speech.lionking.zebra.2=You can collect Zebra Milk in a jar and use it to calm down angry lions!
+speech.lionking.zebra.3=Am I white with black stripes, or black with white stripes?
+speech.lionking.zebra.4=My hide looks simply fabulous, don't you think?
+speech.lionking.zebra.5=Aren't you the one that made my friends into boots?
+speech.lionking.zebra.6=Zebra meat tastes disgusting, I'll have you know.
+
+  Speech - Zebra Foal (ZEBRA_FOAL)
+speech.lionking.zebra_foal.0=Hmmph!
+speech.lionking.zebra_foal.1=Hssh!
+speech.lionking.zebra_foal.2=Hmm!
+
+  Speech - Rhino (RHINO)
+speech.lionking.rhino.0=Have I seen you before?
+speech.lionking.rhino.1=Zebra Chops are much nicer than rhino meat.
+speech.lionking.rhino.2=I didn't know you creatures could talk.
+speech.lionking.rhino.3=Do you have any wheat?
+speech.lionking.rhino.4=How do you stop a rhino charging? I wouldn't know, I don't seem to be able to charge.
+speech.lionking.rhino.5=My full name is Rhinoceros.
+speech.lionking.rhino.6=I've got one tail, four feet and twelve toes.
+
+  Speech - Rhino Calf (RHINO_CALF)
+speech.lionking.rhino_calf.0=Rrr!
+speech.lionking.rhino_calf.1=Hmm!
+speech.lionking.rhino_calf.2=Hrrh!
+
+  Speech - Gemsbok (GEMSBOK)
+speech.lionking.gemsbok.0=I bet you've never even heard of a Gemsbok before.
+speech.lionking.gemsbok.1=Don't you wish you had horns like mine?
+speech.lionking.gemsbok.2=Gemsbok? How do you pronounce that?
+speech.lionking.gemsbok.3=The grass around here is very nice. You should try some.
+speech.lionking.gemsbok.4=I find the idea of a Gemsbok Spear very disturbing.
+speech.lionking.gemsbok.5=What do you mean, I sound exactly like a zebra?
+speech.lionking.gemsbok.6=Hello! I like wheat and corn!
+speech.lionking.gemsbok.7=Stay away from the crocodiles!
+
+  Speech - Gemsbok Calf (GEMSBOK_CALF)
+speech.lionking.gemsbok_calf.0=Hmmph!
+speech.lionking.gemsbok_calf.1=Hssh!
+speech.lionking.gemsbok_calf.2=Hmm!
+
+  Achievement list
+achievement.lionking.page_name=Lion King
+
+  Achievements: Keys and Titles
+achievement.lionking.enter_pride_lands=Enter the Pride Lands
+achievement.lionking.enter_pride_lands.title=The Circle of Life
+
+achievement.lionking.kill_hyena=Kill a Hyena
+achievement.lionking.kill_hyena.title=Hyenas!
+
+achievement.lionking.get_mango=Collect a Mango from a tree
+achievement.lionking.get_mango.title=Underneath the Mango Tree
+
+achievement.lionking.morning_report=Speak to a Zazu before midday
+achievement.lionking.morning_report.title=The Morning Report
+
+achievement.lionking.craft_grind_bowl=Craft a Grinding Bowl
+achievement.lionking.craft_grind_bowl.title=Asante Sana...
+
+achievement.lionking.get_stick=Obtain the Rafiki Stick
+achievement.lionking.get_stick.title=He Knows the Way
+
+achievement.lionking.shoot_dart=Fire a dart from a Dart Shooter
+achievement.lionking.shoot_dart.title=One Hundred and Eighty!
+
+achievement.lionking.kill_scar=Defeat Scar
+achievement.lionking.kill_scar.title=Life's Not Fair
+
+achievement.lionking.enter_outlands=Enter the Outlands
+achievement.lionking.enter_outlands.title=Exiled
+
+achievement.lionking.heads=Collect all three Hyena Head variants
+achievement.lionking.heads.title=Who's Laughing Now?
+
+achievement.lionking.simba=Complete Rafiki's Quest
+achievement.lionking.simba.title=He Lives in You
+
+achievement.lionking.hakuna_matata=Trade with Timon and Pumbaa
+achievement.lionking.hakuna_matata.title=Hakuna Matata!
+
+achievement.lionking.rhino_horn=Give some Ground Rhino Horn to a breeding animal
+achievement.lionking.rhino_horn.title=Horn of Plenty
+
+achievement.lionking.termite=Shoot an Exploding Termite directly with an Outlandish Dart
+achievement.lionking.termite.title=Payback Time
+
+achievement.lionking.fart_bomb=Attack a monster with Pumbaa Flatulence
+achievement.lionking.fart_bomb.title=Not in Front of the Kids
+
+achievement.lionking.crystal=Restore health with a Hakuna Matata Crystal
+achievement.lionking.crystal.title=No Worries
+
+achievement.lionking.rugs=Have all sixteen types of Fur Rug in your inventory
+achievement.lionking.rugs.title=Rug Collector
+
+achievement.lionking.fire_tool=Harvest a smeltable block using a Kivulite tool
+achievement.lionking.fire_tool.title=The Fire Within
+
+achievement.lionking.chocolate_mufasa=Loot some tasty treats from a dungeon
+achievement.lionking.chocolate_mufasa.title=Chocolatiering
+
+achievement.lionking.enchant_diggah=Enchant the Tunnah Diggah to increase its digging range
+achievement.lionking.enchant_diggah.title=Diggah Biggah Tunnah
+
+achievement.lionking.bug_trap=Use a Bug Trap and bait to collect some more bugs
+achievement.lionking.bug_trap.title=It's a Trap!
+
+achievement.lionking.ticket_lion_suit=Dress up and show some class... by raiding Ticket Booths?
+achievement.lionking.ticket_lion_suit.title=Looking Fabulous!
+
+achievement.lionking.kill_zira=Complete An Outlandish Scheme
+achievement.lionking.kill_zira.title=Not One of Us
+
+achievement.lionking.peacock=Mine and smelt some Peacock Ore
+achievement.lionking.peacock.title=No Peacocks Here
+
+achievement.lionking.teleport_simba=Take Simba through a portal to another dimension
+achievement.lionking.teleport_simba.title=Nants Ingonyama Bagithi
+
+achievement.lionking.upendi=Enter Upendi
+achievement.lionking.upendi.title=In Upendi!
+
+achievement.lionking.animal_quest=Equip an Animalspeak Amulet and feed a hungry animal
+achievement.lionking.animal_quest.title=The Animal Whisperer
+
+achievement.lionking.drum_enchant=Enchant an item on a Bongo Drum
+achievement.lionking.drum_enchant.title=Enchanting Rhythms
+
+achievement.lionking.power_drum=Collect enough musical notes to fully power a Bongo Drum
+achievement.lionking.power_drum.title=Master Drummer
+
+achievement.lionking.get_banana=Pick a Banana from a tree
+achievement.lionking.get_banana.title=Hanging Around
+
+achievement.lionking.ride_giraffe=Saddle and ride a Giraffe
+achievement.lionking.ride_giraffe.title=Who Rides Pigs?
+
+achievement.lionking.behead=Behead a Skeletal Hyena
+achievement.lionking.behead.title=Heads Up!
+
+achievement.lionking.wings=Craft a set of Peacock Wings and fly into the air
+achievement.lionking.wings.title=Limitless
+
+  Dialogues - Scar 
+chat.scar.initial=You think you can fight me and live?
+chat.scar.hyenas=Minions! Tear this weakling's flesh apart!
+chat.scar.explosions=I will NOT be defeated!
+
+  Dialogues - Timon and Pumbaa
+chat.timon.initial=§e<Timon> §fHey, Pumbaa. Who's this?
+chat.pumbaa.canEat=§e<Pumba> §fI don't know. Do you think we can eat him?
+chat.timon.noEat=§e<Timon> §fOf course we can't eat him, you idiot. Lie down before you hurt yourself.
+chat.timon.reconsider=§e<Timon> §fAlthough now that you mention it...
+chat.pumbaa.requestFood=§e<Pumba> §fKid, we're really hungry. Do you think you could find us something to eat?
+chat.timon.dismissIdea=§e<Timon> §fPumbaa, that's an awful idea. It'll never work.
+chat.timon.claimIdea=§e<Timon> §fWait a minute. I've got a great idea! You! You there! Do you think you could find us something to eat?
+chat.pumbaa.favoriteFood=§e<Pumba> §fOur favourite food is bugs. Especially those stripy blue ones that hide under logs!
+chat.timon.offerTrade=§e<Timon> §fStop it Pumbaa, you're making my mouth water! Anyway, you there, if you bring us some bugs to eat, I might have some things to offer you in return.
+
+  Backup Messages for LKCharacterSpeech - Timon 
+speech.timon.bugs=§e<Timon> §fHey, we need some bugs! Those stripy blue ones would be perfect.
+speech.timon.moreBugs=§e<Timon> §fGot any more of those tasty bugs? We're still hungry!
+
+  Messages - Zazu
+chat.zazu.morningReport=§e<Zazu> §fGood morning! Here's your daily report from the Pride Lands.
+
+  Messages - Interaction 
+//chat.zebra.milk=You have collected milk from the zebra!
+
+  Messages from sendMessageToAllPlayers 
+chat.rafiki.defeatedScar=§e<Rafiki> §fYes! I knew you could save the Pride Lands from that villain! Now, quickly, return to my tree - we have no time to lose!
+
+  Messages from activateCrystals 
+chat.crystal.heal=The Hakuna Matata Crystal restored your health!
+
+  Dialogues - Zira (Interact)
+chat.zira.stage0=§e<Zira> §fSo you're the one who killed Scar.
+chat.zira.stage1=§e<Zira> §fI had sworn revenge against whoever vanquished him... but you look like a dangerous enemy.
+chat.zira.stage2=§e<Zira> §fPerhaps you could assist me in a little - er, mission - instead?
+chat.zira.stage3=§e<Zira> §fThere might be some rewards in it for you too - and of course, if you don't want to help, I'm sure these hungry, hungry Outlanders will be more than willing to take care of you.
+chat.zira.stage4=§e<Zira> §fI knew you'd accept my offer. You can start by getting me five kivulite and two silver ingots.
+chat.zira.stage5.success=§e<Zira> §fExcellent! Now, I've opened up a lower cavern in this mound. There's a pool of Outwater in there - throw the ingots in and come back.
+chat.zira.stage6.success=§e<Zira> §fAh, the Outlandish Helm! That has some very useful tricks.
+chat.zira.stage6.fail=§e<Zira> §fGo and throw the kivulite and silver into the Outwater.
+chat.zira.stage7=§e<Zira> §fDid you know that wild Outlanders won't attack while you're wearing it?
+chat.zira.stage8=§e<Zira> §fNow what was it I wanted? Oh yes, three Wayward Feathers.
+chat.zira.stage9=§e<Zira> §fYou'll need to gather blue, yellow and red feathers from Zazus, and black feathers from vultures, and throw them all into the Outwater. What are you waiting for?
+chat.zira.stage10.success=§e<Zira> §fWell, you've done better than I expected.
+chat.zira.stage14=§e<Zira> §fAh, the Pride Lands! Just as I remember them. This tree will serve well as the starting point for our conquest.
+chat.zira.stage15=§e<Zira> §fAnd don't worry, I disposed of that idiotic Rafiki who lived here. Would you like to hear the old fool's last words before we removed him?
+chat.zira.stage16=§e<Zira> §f'Find Timon and Pumbaa! They'll know what to do!' It almost sounded as if he were leaving you an instruction - but I know you wouldn't even consider betraying the Outlanders.
+
+  Dialogues - Zira (onLivingUpdate)
+chat.zira.quest0=§e<Zira> §fDo not attack! Let me deal with this fool.
+chat.zira.stage11=§e<Zira> §fNow I can finally leave this accursed wasteland! Come, Outlanders, and let us reclaim what was once ours.
+chat.zira.stage17.pumbaa=§e<Zira> §fWhat? You have a weapon from the warthog? How dare you turn against us! Outlanders, attack this traitor!
+chat.zira.stage23=§e<Zira> §fYou dare to return and challenge me?
+chat.zira.stage24=§e<Zira> §fYou are a traitor, and I shall dispose of you. Now face the wrath of the Termite Queen!
+chat.zira.stage27=§e<Zira> §fOutlanders! Finish this!
+
+  Backup Messages for LKCharacterSpeech - Zira
+speech.ziraIngots=§e<Zira> §fBring me five kivulite and two silver ingots, or face the consequences!
+speech.ziraFeathers=§e<Zira> §fI need three Wayward Feathers. Hurry up!
+speech.ziraConquest=§e<Zira> §fThe conquest of the Pride Lands begins now!
+
+  Quest Names 
+quest.0.name=Rafiki's Quest
+quest.1.name=An Outlandish Scheme
+quest.outlands.name=Outlands Quest
+
+  Localization - Rafiki Quest Stages 
+quest.rafiki.name=Rafiki's Quest
+quest.rafiki.stage.default=
+quest.rafiki.stage.0=Speak to Rafiki in his tree at the centre of the world
+quest.rafiki.stage.1=Bring Rafiki a full stack of hyena bones
+quest.rafiki.stage.2=Find and defeat Scar
+quest.rafiki.stage.3=Return to Rafiki
+quest.rafiki.stage.4=Bring Rafiki four ground termites
+quest.rafiki.stage.5=Bring Rafiki four ground mangoes
+quest.rafiki.stage.6=Build a Star Altar and use the Rafiki Dust on it
+quest.rafiki.stage.7=Quest complete!
+
+  Localization - Outlands Quest Stages 
+quest.outlands.stage.default=
+quest.outlands.stage.0=Use a Rafiki Stick to open the large mound in the Outlands
+quest.outlands.stage.1=Speak with Zira
+quest.outlands.stage.2=Bring Zira five kivulite and two silver ingots
+quest.outlands.stage.3=Throw the ingots into the Outwater
+quest.outlands.stage.4=Bring Zira three Wayward Feathers
+quest.outlands.stage.5=Follow the Outlanders back to the Pride Lands
+quest.outlands.stage.6=Speak to Timon and Pumbaa
+quest.outlands.stage.7=Obtain the ingredients for Pumbaa
+quest.outlands.stage.8=Expel the Outlanders from Rafiki's Tree
+quest.outlands.stage.9=Defeat Zira
+quest.outlands.stage.10=Quest complete!
+
+  Quest Start Texts 
+quest.animal.start.0=I'm getting quite hungry. If you can bring me  , there might be a reward for you!
+quest.animal.start.1=Bring me   to eat and I'll give you something useful!
+quest.animal.start.2=If you get me   to eat, I have a little something for you in return.
+quest.animal.start.3=I feel so hungry. Could you find   for me?
+quest.animal.start.4=Would you be able to find me   to eat? I'll give you something in return!
+quest.animal.start.5=Do you have   to spare? I'm starving here!
+
+  Quest End Texts 
+quest.animal.end.0=That was just what I needed. Here you go.
+quest.animal.end.1=Mmm! Delicious!
+quest.animal.end.2=Thank you! And here's your reward.
+quest.animal.end.3=Thank you for that. Here's the reward I promised!

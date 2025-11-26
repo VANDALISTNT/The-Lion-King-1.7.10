@@ -1,0 +1,130 @@
+package lionking.inventory;
+
+import net.minecraft.world.WorldSavedData;
+import net.minecraft.nbt.NBTTagList;
+import net.minecraft.nbt.NBTTagCompound;
+import net.minecraft.item.ItemStack;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.inventory.IInventory;
+
+public class LKInventoryQuiver extends WorldSavedData implements IInventory {
+    private ItemStack[] inventory;
+    private ItemStack theQuiver;
+
+    public LKInventoryQuiver(String s) {
+        super(s);
+        inventory = new ItemStack[6];
+    }
+
+    @Override
+    public int getSizeInventory() {
+        return 6;
+    }
+
+    @Override
+    public ItemStack getStackInSlot(int i) {
+        return inventory[i];
+    }
+
+    @Override
+    public ItemStack decrStackSize(int i, int j) {
+        if (inventory[i] != null) {
+            if (inventory[i].stackSize <= j) {
+                ItemStack itemstack = inventory[i];
+                inventory[i] = null;
+                markDirty();
+                return itemstack;
+            }
+            ItemStack itemstack1 = inventory[i].splitStack(j);
+            if (inventory[i].stackSize == 0) {
+                inventory[i] = null;
+            }
+            markDirty();
+            return itemstack1;
+        } else {
+            return null;
+        }
+    }
+
+    @Override
+    public ItemStack getStackInSlotOnClosing(int i) {
+        return getStackInSlot(i);
+    }
+
+    @Override
+    public void setInventorySlotContents(int i, ItemStack itemstack) {
+        inventory[i] = itemstack;
+        if (itemstack != null && itemstack.stackSize > getInventoryStackLimit()) {
+            itemstack.stackSize = getInventoryStackLimit();
+        }
+        markDirty();
+    }
+
+    @Override
+    public String getInventoryName() { 
+        return "Quiver";
+    }
+
+    @Override
+    public boolean hasCustomInventoryName() { 
+        return false;
+    }
+
+    @Override
+    public int getInventoryStackLimit() {
+        return 64;
+    }
+
+    @Override
+    public void markDirty() { 
+        super.markDirty();
+    }
+
+    @Override
+    public boolean isUseableByPlayer(EntityPlayer entityplayer) {
+        return true;
+    }
+
+    @Override
+    public void openInventory() {} 
+
+    @Override
+    public void closeInventory() { 
+        markDirty();
+    }
+
+    @Override
+    public boolean isItemValidForSlot(int slot, ItemStack itemstack) {
+        return true;
+    }
+
+    @Override
+    public void readFromNBT(NBTTagCompound data) {
+        ItemStack[] quiverInventory = new ItemStack[6];
+        NBTTagList taglist = data.getTagList("QuiverSlots", 10); 
+        if (taglist != null) {
+            for (int i = 0; i < taglist.tagCount(); i++) {
+                NBTTagCompound nbt = taglist.getCompoundTagAt(i); 
+                byte slot = nbt.getByte("Slot");
+                if (slot >= 0 && slot < quiverInventory.length) {
+                    quiverInventory[slot] = ItemStack.loadItemStackFromNBT(nbt);
+                }
+            }
+        }
+        inventory = quiverInventory;
+    }
+
+    @Override
+    public void writeToNBT(NBTTagCompound data) {
+        NBTTagList taglist = new NBTTagList();
+        for (int i = 0; i < inventory.length; i++) {
+            if (inventory[i] != null) {
+                NBTTagCompound nbt = new NBTTagCompound();
+                nbt.setByte("Slot", (byte) i);
+                inventory[i].writeToNBT(nbt);
+                taglist.appendTag(nbt);
+            }
+        }
+        data.setTag("QuiverSlots", taglist);
+    }
+}

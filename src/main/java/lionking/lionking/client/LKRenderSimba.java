@@ -1,0 +1,99 @@
+package lionking.client;
+
+import cpw.mods.fml.relauncher.Side;
+import cpw.mods.fml.relauncher.SideOnly;
+import net.minecraft.client.renderer.Tessellator;
+import net.minecraft.client.renderer.entity.RenderLiving;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.EntityLivingBase;
+import net.minecraft.util.ResourceLocation;
+import net.minecraft.util.StatCollector;
+import org.lwjgl.opengl.GL11;
+
+import lionking.entity.LKEntitySimba; 
+
+@SideOnly(Side.CLIENT)
+public class LKRenderSimba extends RenderLiving {
+    private static final ResourceLocation TEXTURE = new ResourceLocation("lionking:mob/simba.png");
+    private static final ResourceLocation TEXTURE_CHARM = new ResourceLocation("lionking:mob/simba_charm.png");
+
+    public LKRenderSimba() {
+        super(new LKModelSimba(), 0.5F);
+        setRenderPassModel(new LKModelSimbaCharm());
+    }
+
+    @Override
+    protected ResourceLocation getEntityTexture(Entity entity) {
+        return TEXTURE;
+    }
+
+    @Override
+    public void doRender(Entity entity, double x, double y, double z, float yaw, float partialTicks) {
+        LKEntitySimba simba = (LKEntitySimba) entity;
+        super.doRender(simba, x, y, z, yaw, partialTicks);
+        y += 0.25D;
+        func_147906_a(simba, StatCollector.translateToLocal("entity.lionking.simba.name"), x, y, z, 64);
+        renderHealthBar(simba, x, y, z, 64);
+    }
+
+    @Override
+    protected int shouldRenderPass(EntityLivingBase entity, int pass, float partialTicks) {
+        bindTexture(TEXTURE_CHARM);
+        if (pass == 0 && ((LKEntitySimba) entity).hasCharm()) {
+            return 1;
+        }
+        return -1;
+    }
+
+    private void renderHealthBar(LKEntitySimba simba, double x, double y, double z, int maxDistance) {
+        float distance = simba.getDistanceToEntity(renderManager.livingPlayer);
+        if (distance <= (float) maxDistance) {
+            float scaleFactor = 1.6F;
+            float scale = 0.016666668F * scaleFactor;
+
+            GL11.glPushMatrix();
+            GL11.glTranslatef((float) x, (float) y + 2.3F, (float) z);
+            GL11.glNormal3f(0.0F, 1.0F, 0.0F);
+            GL11.glRotatef(-renderManager.playerViewY, 0.0F, 1.0F, 0.0F);
+            GL11.glRotatef(renderManager.playerViewX, 1.0F, 0.0F, 0.0F);
+            GL11.glScalef(-scale, -scale, scale);
+            GL11.glDisable(GL11.GL_LIGHTING);
+            GL11.glDepthMask(false);
+            GL11.glDisable(GL11.GL_DEPTH_TEST);
+            GL11.glEnable(GL11.GL_BLEND);
+            GL11.glBlendFunc(GL11.GL_SRC_ALPHA, GL11.GL_ONE_MINUS_SRC_ALPHA);
+
+            Tessellator tessellator = Tessellator.instance;
+            GL11.glDisable(GL11.GL_TEXTURE_2D);
+
+            tessellator.startDrawingQuads();
+            tessellator.setColorRGBA_F(1.0F, 0.0F, 0.0F, 1.0F);
+            tessellator.addVertex(-19D, 16D, 0.0D);
+            tessellator.addVertex(-19D, 21D, 0.0D);
+            tessellator.addVertex(19D, 21D, 0.0D);
+            tessellator.addVertex(19D, 16D, 0.0D);
+            tessellator.draw();
+
+            double healthRemaining = (double) simba.getHealth() / (double) simba.getMaxHealth();
+            if (healthRemaining < 0.0D) {
+                healthRemaining = 0.0D;
+            }
+
+            tessellator.startDrawingQuads();
+            tessellator.setColorRGBA_F(0.0F, 1.0F, 0.0F, 1.0F);
+            tessellator.addVertex(-19D, 16D, 0.0D);
+            tessellator.addVertex(-19D, 21D, 0.0D);
+            tessellator.addVertex(-19D + (38D * healthRemaining), 21D, 0.0D);
+            tessellator.addVertex(-19D + (38D * healthRemaining), 16D, 0.0D);
+            tessellator.draw();
+
+            GL11.glEnable(GL11.GL_TEXTURE_2D);
+            GL11.glEnable(GL11.GL_DEPTH_TEST);
+            GL11.glDepthMask(true);
+            GL11.glEnable(GL11.GL_LIGHTING);
+            GL11.glDisable(GL11.GL_BLEND);
+            GL11.glColor4f(1.0F, 1.0F, 1.0F, 1.0F);
+            GL11.glPopMatrix();
+        }
+    }
+}
